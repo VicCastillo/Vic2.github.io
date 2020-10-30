@@ -1,5 +1,5 @@
-## VicCastillo.github.io
+## Vic2.github.io
 
 
 Page (with download links) is here: 
-[http://viccastillo.github.io/](http://viccastillo.github.io/)
+[http://vic2.github.io/](http://vic2.github.io/)
